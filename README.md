@@ -1,70 +1,26 @@
-# Getting Started with Create React App
+This Repository aims to practical use of Material UI to create amazing User Interfaces.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- In this repository, I have created a custom template of responsive Photo Album kind of App. The Source code can be used in any application.
 
-## Available Scripts
+- This also makes me practice on designing the WebApp using Material UI and to be honest I really fell in love with the library. How easily, we can start implementing logics without worrying much on the layouts.
 
-In the project directory, you can run:
+- Few Points to remember from this project :-
 
-### `npm start`
+1. In the Material UI Documentation -> 'Component' tab is the place where you can understand about the component looks and working
+2. Where as, in 'Component API' you can check what are the props that can be explored to create your own designed web App
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Components covered in this project -
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. Typography :- Focused on the Font of the element
+2. AppBar :- The Header section of the component
+3. Card :- The images loaded in the main screen
+4. CardActions :- What are the kind of Action you want to be implemented in your card
+5. CardMedia :- The image loaded in each cards
+6. CssBaseline :- It gives a basic CSS to the componenrt to the app by default from material UI
+7. Grid :- Always responsive, and comnes in pair. One 'container' and another one is 'items'
+8. Toolbar :- ToolBar doesn’t work independently as that of other Material-UI components, it works with the AppBar. The Toolbar component sets the properties of the children to make them horizontally aligned. The Toolbar component simply applies the normal CSS flex(display: ‘flex’), with vertical centering via alignItems: ‘center’,
+9. Container :- Container for all the elements present in the App.
+10. Button :- Butons used
+11. CardContent :- All the contents present in cards
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Happy Learning! :D
